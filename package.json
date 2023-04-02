@@ -1,0 +1,27 @@
+{
+  "name": "chatting-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hkt456",
+  "license": "ISC",
+  "description": "small chatting room project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkt456/chatroom.git"
+  },
+  "keywords": [
+    "chatroom",
+    "hkt456"
+  ],
+  "bugs": {
+    "url": "https://github.com/hkt456/chatroom/issues"
+  },
+  "homepage": "https://github.com/hkt456/chatroom#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
+}
